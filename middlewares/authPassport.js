@@ -2,6 +2,7 @@ const passport = require('passport');
 const LocalStrategy = require('passport-local').Strategy;
 const bcrypt = require('bcrypt');
 const Usuarios = require('../models/users.js');
+const { sendMail } = require('../utils/nodemailer.js');
 
 function isValidPassword(user, password) {
   return bcrypt.compareSync(password, user.password);
