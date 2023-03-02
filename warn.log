@@ -1,0 +1,31 @@
+{"level":"warn","message":"Get en Inexistent- log warn"}
+{"level":"warn","message":"Get en Inexistent- log warn"}
+{"level":"warn","message":"Get en Inexistent- log warn"}
+{"level":"warn","message":"Get en Inexistent- log warn"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
+{"level":"warn","message":"Get en Inexistent- log warn"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: ReferenceError: body is not defined- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: SyntaxError: Unexpected token o in JSON at position 1- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: SyntaxError: Unexpected token o in JSON at position 1- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/productos/login: TypeError: Cannot destructure property 'username' of 'req.session.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/productos/login: TypeError: Cannot destructure property 'username' of 'req.session.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.session.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
+{"level":"error","message":"Error in Post /api/pedidos: TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.- log error"}
