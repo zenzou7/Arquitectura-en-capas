@@ -1,12 +1,10 @@
 const { normalize, schema } = require('normalizr');
 const express = require('express');
 const app = express();
-const httpServer = require('http').createServer(app);
-const mensajesDaoMongo = require('../src/DAO/daoMongoMensajes');
+const mensajesDaoMongo = require('../service/DAO/daoMongoMensajes.js');
 const classMsgs = new mensajesDaoMongo();
-const productosMongo = require('../src/DAO/daoMongoProductos.js');
+const productosMongo = require('../service/DAO/daoMongoProductos.js');
 const classProductos = new productosMongo();
-// const io = require("socket.io")(httpServer);
 
 async function websocket(io) {
   io.on('connection', async (socket) => {
