@@ -3,7 +3,7 @@ const classProductos = new daoMongoProductos();
 const daoMongoPedidos = require('../service/DAO/daoMongoPedidos.js');
 const classPedidos = new daoMongoPedidos();
 const yargs = require('yargs/yargs')(process.argv.slice(2));
-const config = require('../config/config.js');
+const config = require('../../config/config.js');
 const args = yargs.default({ PORT: config.PORT }).argv;
 const winston = require('winston');
 

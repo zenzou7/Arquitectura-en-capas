@@ -1,9 +1,9 @@
 const { normalize, schema } = require('normalizr');
 const express = require('express');
 const app = express();
-const mensajesDaoMongo = require('../service/DAO/daoMongoMensajes.js');
+const mensajesDaoMongo = require('./DAO/daoMongoMensajes.js');
 const classMsgs = new mensajesDaoMongo();
-const productosMongo = require('../service/DAO/daoMongoProductos.js');
+const productosMongo = require('./DAO/daoMongoProductos.js');
 const classProductos = new productosMongo();
 
 async function websocket(io) {

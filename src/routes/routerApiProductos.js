@@ -2,7 +2,7 @@ const { Router } = require('express');
 const controller = require('../controller/controllerApiProductos.js');
 const passport = require('passport');
 const multer = require('multer');
-const authPassport = require('../middlewares/authPassport.js');
+const authPassport = require('../../middlewares/authPassport.js');
 const upload = multer();
 
 authPassport();

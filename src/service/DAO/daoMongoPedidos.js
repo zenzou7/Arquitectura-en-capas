@@ -1,5 +1,5 @@
-const ContainerMongo = require('../../src/containers/ContainerMongo.js');
-const pedidos = require('../../models/pedidos.js');
+const ContainerMongo = require('../../containers/ContainerMongo.js');
+const pedidos = require('../../../models/pedidos.js');
 
 class pedidosDaoMongo extends ContainerMongo {
   constructor() {
